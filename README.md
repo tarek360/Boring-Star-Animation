@@ -9,4 +9,4 @@ A sample for Flare on Flutter.
 https://proandroiddev.com/how-to-flare-a-flutter-app-part-1-create-animation-3829fb2ed72a
 
 ### Part 2
-coming
+https://proandroiddev.com/how-to-flare-a-flutter-app-part-2-flutter-integration-b188b0661d17
