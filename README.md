@@ -2,6 +2,8 @@
 
 A sample for Flare on Flutter.
 
+<img src="/screenshots/flare_flutter_ios_animation.gif" width="320">
+
 ## Getting Started with my tutorial
 
 
